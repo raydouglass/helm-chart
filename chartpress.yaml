@@ -1,0 +1,5 @@
+charts:
+  - name: rapidsai
+    repo:
+      git: raydouglass/helm-chart
+      published: https://raydouglass.github.io/helm-chart/
